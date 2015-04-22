@@ -157,6 +157,12 @@ article + article {
 }
 
 logo {
-float: right;
-padding: 8px;
+    float: left;
+    padding-top: 18px;
+    width: 100%
+}
+
+logo img{
+    margin: 0 auto;
+    display: block;
 }
